@@ -3,13 +3,9 @@ EspaçoHora
 INTEGRANTES:
 
 Nicolas Neves dos Santos - 295553
-
 Carlos Henrique Neves de Lima - 191284
-
 Wallace de Oliveira Aguiar - 285159
-
 Eduardo Henrique Pereira da Silva - FEZ POUCO, MAS FEZ ERRADO... - 235846
-
 Kaua Vinícius Norberto e Souza - NÃO FEZ NADA, NADA MESMO - 148118
 
 
